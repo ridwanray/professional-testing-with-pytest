@@ -41,8 +41,10 @@ This project demonstrates various testing concepts using a project that reads in
 To run the tests, use the following command:
 ```bash
 pytest
+```
 
 
-## 
 
-![Test Output](test_output.png)
+## Test OutPut
+![Project Screenshot](test.png)
+
